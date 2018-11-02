@@ -1,0 +1,9 @@
+//NoOpenMessageIntent
+//PushMessageSomeoneIntent
+//PushMessageNoneIntent
+//CallSomeoneIntent
+MessageIntent
+OpenMessageINtent
+OpenTaskIntent
+RegisterIntent
+StartRegisterIntent
